@@ -30,6 +30,8 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="25" alt="wordpress logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="8" />
   
 </div>
 
