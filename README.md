@@ -30,7 +30,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="25" alt="wordpress logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" height="25" alt="wordpress logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trêsdsmax/trêsdsmax-original.svg" height="25" alt="wordpress logo" />
   
 </div>
 
