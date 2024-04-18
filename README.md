@@ -11,7 +11,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4DD026FF&color:FFF)](mailto:kleidson.96@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=4DD026FF&color:FFFff)](mailto:kleidson.96@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26F72DFf&color:FFF)](https://www.linkedin.com/in/kleidsonsantos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=26F72DFF&color:FFF)](https://www.instagram.com/kleidson96/)
 
